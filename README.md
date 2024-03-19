@@ -6,7 +6,7 @@ An e-commerce storefront for [Vendure](https://www.vendure.io) built with [Remix
 
 ![Screenshot](https://www.vendure.io/blog/2022/05/lightning-fast-headless-commerce-with-vendure-and-remix/lighthouse-score.webp)
 
-## To do
+## To do.
 
 Most Vendure features are already part of this starter. Notable missing Vendure features:
 - Default billing/shipping addresses
